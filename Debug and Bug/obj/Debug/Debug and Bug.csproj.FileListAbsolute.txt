@@ -1,0 +1,11 @@
+F:\C#\repos\Debug and Bug\Debug and Bug\bin\Debug\Debug and Bug.exe.config
+F:\C#\repos\Debug and Bug\Debug and Bug\bin\Debug\Debug and Bug.exe
+F:\C#\repos\Debug and Bug\Debug and Bug\bin\Debug\Debug and Bug.pdb
+F:\C#\repos\Debug and Bug\Debug and Bug\obj\Debug\Debug and Bug.csproj.AssemblyReference.cache
+F:\C#\repos\Debug and Bug\Debug and Bug\obj\Debug\Debug and Bug.csproj.SuggestedBindingRedirects.cache
+F:\C#\repos\Debug and Bug\Debug and Bug\obj\Debug\Debug_and_Bug.Form1.resources
+F:\C#\repos\Debug and Bug\Debug and Bug\obj\Debug\Debug_and_Bug.Properties.Resources.resources
+F:\C#\repos\Debug and Bug\Debug and Bug\obj\Debug\Debug and Bug.csproj.GenerateResource.cache
+F:\C#\repos\Debug and Bug\Debug and Bug\obj\Debug\Debug and Bug.csproj.CoreCompileInputs.cache
+F:\C#\repos\Debug and Bug\Debug and Bug\obj\Debug\Debug and Bug.exe
+F:\C#\repos\Debug and Bug\Debug and Bug\obj\Debug\Debug and Bug.pdb
