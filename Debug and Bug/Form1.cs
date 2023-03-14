@@ -20,7 +20,7 @@ namespace Debug_and_Bug
         private void button1_Click(object sender, EventArgs e)
         {
 
-            string location;
+         
 
 
 
@@ -28,8 +28,17 @@ namespace Debug_and_Bug
 
             try
             {
+                string location;
+
                 location = "C:\\Users\\laxma\\OneDrive\\Pictures\\backiee-251946.jpg";
-                System.IO.File.Delete(location);
+            
+                
+                if(System.IO.File.Exists(location)== true)
+                {
+                    System.IO.File.Delete(location);
+                }
+                
+             
 
             }
             catch(Exception exc) { 
